@@ -1,6 +1,10 @@
+
+# NUEVA RAMA 1
+
 ### Mi nombre es Ghian Marco Escalante Cardenas 4 ciclo
 
 ## Mis habilidades en programación
+- Ahora domino un poco mas el Github 
 - Java y Python conosco lo  basico
 - Puedo creart paginas sencillas en VisualStudio usando HTML Y 
 CSS 
@@ -18,7 +22,11 @@ como en este caso un Readme
 - Página web personal con HTML y CSS
 - Conectar un pagina con mi base de datos
 - Codigos de atomatizacion basicos en java
- 
+
 ## Experiencia previa
 - Proyectos en senati
+
+-------------------------------------------------------------------------------
+
+
 
